@@ -1,4 +1,4 @@
-# STYLESENSEAI
+# STYLESENSE
 *Transform Your Style, Virtually and Instantly*
 
 *Built with the tools and technologies:*
